@@ -1,0 +1,18 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url('img1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    overflow-x: hidden; 
+  }
+  
+  .blur-background {
+    background-color: rgba(128, 128, 128, 0.5); 
+    backdrop-filter: blur(10px); 
+    padding: 1rem; 
+  }
+  

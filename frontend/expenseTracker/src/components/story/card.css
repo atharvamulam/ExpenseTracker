@@ -1,0 +1,43 @@
+.card {
+    min-height: 30vh; 
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.4); 
+    backdrop-filter: blur(10px); 
+    margin-bottom: -7px;
+  }
+  
+  .info-section p {
+    margin: 0.5rem 0;
+  }
+  
+  .middle-section {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .middle-section input {
+    width: 80%;
+  }
+  
+  .mr-2 {
+    margin-right: 0.5rem;
+  }
+  
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .icon-container svg {
+    margin: 0 1rem;
+    
+  }
+  
+  
+  
